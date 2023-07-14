@@ -1,0 +1,10 @@
+server:
+  port: 8612 #端口号
+eureka:
+  instance:
+    hostname: eureka8612.com #Eureka Server 实例名称
+  client:
+    register-with-eureka: false #false 表示不向注册中心注册自己。
+    fetch-registry: false  #false 表示自己端就是注册中心，我的职责就是维护服务实例，并不需要去检索服务
+    service-url:
+      defaultZone: http://eureka8610.com:8610/eureka/,http://eureka8611.com:8611/eureka/ #将这个 Eureka Server 注册到 7001 和 7002 上

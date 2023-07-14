@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/micro-service-cloud-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud-consumer-dept-8900/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud-eureka-8610/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud-eureka-8611/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud-eureka-8612/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud-provider-dept-8710/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud-provider-dept-8711/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud-provider-dept-8712/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8713/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
